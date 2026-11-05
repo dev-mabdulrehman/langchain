@@ -26,8 +26,8 @@ This structured roadmap focuses on hands-on capabilities, covering everything fr
 
 * **Week 1: LangChain Foundations & Model I/O**
   * [x] **Day 1:** Python Setup, Virtual Environment Configuration, API Security, and First LLM Integration.
-  * [ ] **Day 2:** Prompt Templates & Dynamic Inputs *(In Progress)*
-  * [ ] **Day 3:** Output Parsers (Structured Data)
+  * [x] **Day 2:** Prompt Templates & Dynamic Inputs
+  * [ ] **Day 3:** Output Parsers (Structured Data) *(In Progress)*
   * [ ] **Day 4:** Chat Models & System Messages
   * [ ] **Day 5:** Chains (LangChain Expression Language - LCEL)
   * [ ] **Day 6:** Mini-Project 1 (Automated Blog Outline Generator)
